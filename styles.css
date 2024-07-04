@@ -1,0 +1,411 @@
+* {
+    margin: 0;
+    max-width: 1348px;
+}
+
+/* Header Design */
+
+.header {
+    background-image: url(images/banner/banner2.png);
+    width: 1349px;
+    height: 680px;
+    background-size: cover;
+}
+
+.headtitle {
+    position: absolute;
+    width: 440px;
+    height: 190px;
+    left: 730px;
+    top: 170px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    text-align: right;
+    color: #151414;
+}
+
+.headdet {
+    position: absolute;
+    width: 415px;
+    height: 65px;
+    left: 750px;
+    top: 365px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 26px;
+    text-align: right;
+    color: #444343;
+}
+
+button.headbtn {
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 1010px;
+    top: 490px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    color: #FFFFFF;
+    background: #f15b22;
+    border-radius: 5px;
+    border-color: #f15b2200;
+}
+
+.failsec {
+    position: absolute;
+    width: 900px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+}
+
+.failsec {
+    position: absolute;
+    width: 1010px;
+    height: 723.3px;
+    left: 170px;
+    top: 820px;
+    display: flex;
+}
+
+.failimg img {
+    width: 450px;
+    height: 570px;
+}
+
+.failtitle {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+    padding: 10px;
+}
+
+.faildes {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    padding: 10px;
+}
+
+ul.faillist {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-top: 13px;
+}
+
+
+/* Header Design */
+
+.header {
+    background-image: url(images/banner/banner2.png);
+    width: 1349px;
+    height: 680px;
+    background-size: cover;
+}
+
+.headtitle {
+    position: absolute;
+    width: 440px;
+    height: 190px;
+    left: 730px;
+    top: 170px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    text-align: right;
+    color: #151414;
+}
+
+.headdet {
+    position: absolute;
+    width: 415px;
+    height: 65px;
+    left: 750px;
+    top: 365px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 26px;
+    text-align: right;
+    color: #444343;
+}
+
+button.headbtn {
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 1010px;
+    top: 490px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    color: #FFFFFF;
+    background: #f15b22;
+    border-radius: 5px;
+    border-color: #f15b2200;
+}
+
+.failsec {
+    position: absolute;
+    width: 900px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+}
+
+.failsec {
+    position: absolute;
+    width: 1010px;
+    height: 723.3px;
+    left: 170px;
+    top: 800px;
+    display: flex;
+}
+
+.failimg img {
+    width: 400px;
+    height: 520px;
+}
+
+.failtitle {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    color: #151414;
+    padding: 10px;
+}
+
+.faildes {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 26px;
+    color: #444343;
+    padding: 10px;
+}
+
+ul.faillist {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #444343;
+    margin-top: 13px;
+}
+
+.faillist li {
+    padding: 7px;
+}
+
+.failimg {
+    margin-right: 90px;
+}
+
+.faildet {
+    margin-top: 140px;
+    margin-left: 100px;
+}
+
+section.fail {
+    height: 730px;
+}
+
+section.plan {
+    width: 1140px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.my_plan {
+    display: flex;
+    justify-content: space-around;
+}
+
+.myplan {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+    margin-bottom: 55px;
+}
+
+h3.plantitle {
+    text-align: center;
+}
+
+.plandet img {
+    width: 60px;
+    margin-bottom: 20px;
+}
+
+.plandet img {
+    width: 60px;
+    margin-bottom: 20px;
+}
+
+.plandet h3 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #151414;
+    margin-bottom: 15px;
+}
+
+.plandet img {
+    width: 60px;
+    margin-bottom: 20px;
+}
+
+.plandet {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.plandet h3 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #151414;
+    margin-bottom: 10px;
+}
+
+.plandet p {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    color: #737272;
+}
+
+.mindset {
+    width: 1140px;
+    margin: auto;
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%), url(images/watch.png);
+    height: 300px;
+    border-radius: 10px;
+    margin-top: 100px;
+}
+
+h2.mindtitle {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    color: #FFFFFF;
+}
+
+.minddet {
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    margin-left: 40px;
+    width: 540px;
+}
+
+button.mindbtn {
+    background: #FFFFFF;
+    border-radius: 2px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #F15B22;
+    border: 1px;
+    padding: 10px 25px;
+    margin-top: 18px;
+}
+footer.footer {
+    background: #151414;
+    margin-top: 70px;
+    padding: 70px;
+}
+
+.footermain {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footleft {
+    width: 500px;
+}
+.footdet h3 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    color: #F8F8F8;
+    margin: 12px;
+}
+
+.footdet p {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin: 12px;
+}
+
+.footicon img {
+    width: 36px;
+    margin: 10px;
+}
+
+.footright h3 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    color: #FFFFFF;
+    margin: 12px 0px;
+}
+
+input.subsem {
+    padding: 13px;
+    font-size: 13px;
+    width: 230px;
+    background: none;
+    border: 1px solid white;
+    border-radius: 8px;
+}
+
+button.subsbtn {
+    background: #FFFFFF;
+    border-radius: 8px;
+    margin: 15px 0px;
+    padding: 15px 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #F15B22;
+}
+
+.subsdet {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
